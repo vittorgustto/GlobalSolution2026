@@ -1,0 +1,6 @@
+regiao,lat,lon,ndvi_atual,ndvi_anterior,score_risco,classe,variacao_ndvi
+Zona Norte - Área 01,-23.45,-46.62,0.28,0.62,81,Alto,-0.33999999999999997
+Zona Leste - Área 02,-23.55,-46.45,0.41,0.48,32,Baixo,-0.07
+Margem Tietê - Área 03,-23.51,-46.7,0.12,0.35,61,Médio,-0.22999999999999998
+Serra - Área 04,-23.2,-46.9,0.52,0.58,30,Baixo,-0.05999999999999994
+Interior - Área 05,-22.9,-47.1,0.21,0.44,61,Médio,-0.23
