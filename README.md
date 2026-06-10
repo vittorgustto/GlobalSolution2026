@@ -9,7 +9,7 @@
 <br>
 
 
-## Grupo 39
+## Grupo 24
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/vittor-augusto/">Vitor Augusto Gomes</a>
