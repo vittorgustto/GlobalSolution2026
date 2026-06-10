@@ -227,7 +227,7 @@ GlobalSOlution2026
 │   ├── app_streamlit.py
 │   ├── pipeline_ndvi.py
 │   ├── rag_assistant.py
-│   └── esp32_sensor_mock.ino
+│   └── agents.py
 │
 ├── docs
 │   ├── requirements.txt
